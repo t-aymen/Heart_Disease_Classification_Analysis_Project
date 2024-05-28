@@ -2,7 +2,7 @@
 
 <img src='dataset-cover.jpg'>
 
-This project aims to develop and validate a machine learning model for predicting wether a patient has heart disease, with a measurement of success set to approx. `95%` prediction accuracy.
+This project aims to develop and validate a machine learning model for predicting wether or not a patient has heart disease, with a measurement of success set to approx. `95%` prediction accuracy.
 
 ## Project Data
 The dataset used in this analysis dates back from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The target field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
