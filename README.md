@@ -1,7 +1,5 @@
 # Heart Disease Classification Analysis
 
-<img src='dataset-cover.jpg'>
-
 This project aims to develop and validate a machine learning model for predicting wether or not a patient has heart disease, with a measurement of success set to approx. `95%` prediction accuracy.
 
 ## Project Data
