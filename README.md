@@ -11,7 +11,7 @@ The dataset used in this analysis dates back from 1988 and consists of four data
 1. age
 2. sex (0: female, 1: male)
 3. cp = chest pain type (4 values)
-4. rbs = resting blood pressure
+4. trestbps = resting blood pressure
 5. chol = serum cholestoral in mg/dl
 6. fsb = fasting blood sugar > 120 mg/dl
 7. restecg = resting electrocardiographic results (values 0,1,2)
@@ -20,7 +20,7 @@ The dataset used in this analysis dates back from 1988 and consists of four data
 10. oldpeak = ST depression induced by exercise relative to rest
 11. slope = the slope of the peak exercise ST segment
 12. ca = number of major vessels (0-3) colored by flourosopy
-13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
+13. thal = thalium stress result (0: normal, 1: fixed defect, 2: reversable defect)
 
 <b>Source</b>: <a href='https://archive.ics.uci.edu/dataset/45/heart+disease'>UCI Machine Learning</a>
 
