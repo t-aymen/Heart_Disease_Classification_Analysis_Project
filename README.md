@@ -2,10 +2,10 @@
 
 This project aims to develop and validate a machine learning model for predicting wether or not a patient has heart disease, with a measurement of success set to approx. `95%` prediction accuracy.
 
-## Project Data
+## Context and Scope
 The dataset used in this analysis dates back from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The target field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 
-<b>Data Dictionary</b>:
+<b>Data Features</b>:
 1. age
 2. sex (0: female, 1: male)
 3. cp = chest pain type (4 values)
@@ -19,6 +19,8 @@ The dataset used in this analysis dates back from 1988 and consists of four data
 11. slope = the slope of the peak exercise ST segment
 12. ca = number of major vessels (0-3) colored by flourosopy
 13. thal = thalium stress result (0: normal, 1: fixed defect, 2: reversable defect)
+
+## Project Data
 
 <b>Source</b>: <a href='https://archive.ics.uci.edu/dataset/45/heart+disease'>UCI Machine Learning</a>
 
